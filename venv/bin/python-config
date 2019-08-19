@@ -1,4 +1,4 @@
-#!/home/stan/repos/Vonage_Python/bakery/venv/bin/python
+#!/home/stan/repos/REST-automation-demo/venv/bin/python
 
 import sys
 import getopt

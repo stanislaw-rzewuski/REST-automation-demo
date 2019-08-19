@@ -1,4 +1,4 @@
-#!/home/stan/repos/Vonage_Python/bakery/venv/bin/python2.7
+#!/home/stan/repos/REST-automation-demo/venv/bin/python2.7
 # -*- coding: utf-8 -*-
 import re
 import sys
